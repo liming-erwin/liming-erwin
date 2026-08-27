@@ -6,11 +6,11 @@ Three team projects, built between April and August 2026. The share-of-code figu
 
 | Project | What it is | Commits | Share of code |
 |---|---|---|---|
-| **[Biki](https://github.com/stepanusimnuel/biki)** | Fruit-grading QC — iPad + ESP32 over BLE | 2 / 4 | **90%** · 4,726 / 5,270 |
+| **[Oren](https://github.com/liming-erwin/Oren)** | Fruit-grading QC — iPad + ESP32 over BLE | 3 / 5 | **89%** · 4,307 / 4,851 |
 | **[Hijauin](https://github.com/liming-erwin/Hijauin)** | Volunteering program discovery | 71 / 104 | **66%** · 3,105 / 4,709 |
 | **[REFRM](https://github.com/liming-erwin/refrm)** | Padel stroke-form coach | 14 / 26 | **47%** · 642 / 1,367 |
 
-**Biki** — I built the data-source abstraction that lets the whole app run without the hardware rig attached: one protocol, a CoreBluetooth implementation and a mock one, with a sync engine as the only consumer. Also the SwiftData schema, the iPad interface, and the architecture documentation. *In progress.*
+**Oren** — I built the data-source abstraction that lets the whole app run without the hardware rig attached: one protocol, a CoreBluetooth implementation and a mock one, with a sync engine as the only consumer. Also the SwiftData schema, the iPad interface, and the architecture documentation. *In progress.*
 
 **Hijauin** — Owned Profile, My Events, the join/cancel flow, and the data layer. Ran a SwiftUI modernization pass across 23 files (`@Observable`, value-based navigation, accessibility). Merged 21 of the project's 23 pull requests.
 
@@ -24,5 +24,5 @@ Three team projects, built between April and August 2026. The share-of-code figu
 
 - **GitHub** — [@liming-erwin](https://github.com/liming-erwin)
 - **Email** — limingerwin@gmail.com
-- **LinkedIn** — <!-- TODO: add your LinkedIn URL -->
-- **Portfolio** — <!-- TODO: paste the artifact link here once you've shared it publicly -->
+- **LinkedIn** — [liming-erwin-saputra](https://www.linkedin.com/in/liming-erwin-saputra/)
+- **Portfolio** — [Project breakdown](https://claude.ai/code/artifact/524fc61a-7cee-4e12-95e3-e47553b16820)
